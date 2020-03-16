@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bewakoof_app/static/css/main.e4dc6f20.chunk.css",
-    "main.js": "/bewakoof_app/static/js/main.43f71d30.chunk.js",
-    "main.js.map": "/bewakoof_app/static/js/main.43f71d30.chunk.js.map",
+    "main.js": "/bewakoof_app/static/js/main.240a64c2.chunk.js",
+    "main.js.map": "/bewakoof_app/static/js/main.240a64c2.chunk.js.map",
     "runtime-main.js": "/bewakoof_app/static/js/runtime-main.5824d917.js",
     "runtime-main.js.map": "/bewakoof_app/static/js/runtime-main.5824d917.js.map",
     "static/css/2.dea561c2.chunk.css": "/bewakoof_app/static/css/2.dea561c2.chunk.css",
     "static/js/2.3daedc29.chunk.js": "/bewakoof_app/static/js/2.3daedc29.chunk.js",
     "static/js/2.3daedc29.chunk.js.map": "/bewakoof_app/static/js/2.3daedc29.chunk.js.map",
     "index.html": "/bewakoof_app/index.html",
-    "precache-manifest.79bee7ee42ef5c29bcd57dc7ab1c1ee0.js": "/bewakoof_app/precache-manifest.79bee7ee42ef5c29bcd57dc7ab1c1ee0.js",
+    "precache-manifest.4b3d6d0bdd4b224e3d6e881f520b3af3.js": "/bewakoof_app/precache-manifest.4b3d6d0bdd4b224e3d6e881f520b3af3.js",
     "service-worker.js": "/bewakoof_app/service-worker.js",
     "static/css/2.dea561c2.chunk.css.map": "/bewakoof_app/static/css/2.dea561c2.chunk.css.map",
     "static/css/main.e4dc6f20.chunk.css.map": "/bewakoof_app/static/css/main.e4dc6f20.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.dea561c2.chunk.css",
     "static/js/2.3daedc29.chunk.js",
     "static/css/main.e4dc6f20.chunk.css",
-    "static/js/main.43f71d30.chunk.js"
+    "static/js/main.240a64c2.chunk.js"
   ]
 }
