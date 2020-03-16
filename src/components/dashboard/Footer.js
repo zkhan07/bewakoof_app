@@ -1,5 +1,15 @@
 import React from "react";
 
+import a1 from '../images/a1.png';
+import a2 from '../images/a2.png';
+import pay1 from '../images/pay1.jpg';
+import pay2 from '../images/pay2.jpg';
+import pay3 from '../images/pay3.jpg';
+import pay4 from '../images/pay4.jpg';
+
+
+
+
 const Footer = () => {
     return(
         <div style={{backgroundColor: "#262626", color: "yellow"}}>
@@ -42,8 +52,8 @@ const Footer = () => {
                     <div class="ui link list">
                         <h5>DOWNLOAD THE APP</h5>
                         <a class="item">
-                            <img src="a1.png" height="30px" width="100px" />
-                            <img src="a2.png" height="30px" width="100px" />
+                            <img src={a1} height="30px" width="100px" />
+                            <img src={a2} height="30px" width="100px" />
                         </a>
                     </div>
                 </div>
@@ -66,10 +76,10 @@ const Footer = () => {
                     <div class="ui link list">
                         <h5>100% SECURE PAYMENT</h5>
                         <a class="item">
-                            <img src="pay1.jpg" height="30px" width="50px" />
-                            <img src="pay2.jpg" height="30px" width="50px" />
-                            <img src="pay3.jpg" height="30px" width="50px" />
-                            <img src="pay4.jpg" height="30px" width="50px" />
+                            <img src={pay1} height="30px" width="50px" />
+                            <img src={pay2} height="30px" width="50px" />
+                            <img src={pay3} height="30px" width="50px" />
+                            <img src={pay4} height="30px" width="50px" />
                         </a>
                     </div>
                 </div>

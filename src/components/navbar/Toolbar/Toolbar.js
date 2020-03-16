@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 import DrawerToggleButton from '../SideDrawer/DrawerToggleButton';
 import './Toolbar.css';
 
+import logo3 from "../image/logo3.png";
+
 const toolbar = props => (
   <header className="toolbar">
     <nav className="toolbar__navigation">
@@ -12,7 +14,7 @@ const toolbar = props => (
         <div className="toolbar__logo">
           <Link to="/"> 
           <div className="ui mini image">
-            <img src="logo3.png" height="150" width="200" />
+            <img src={logo3} height="150" width="200" />
           </div>
             <b>Bewakoof.in</b>
           </Link>

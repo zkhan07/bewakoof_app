@@ -5,6 +5,15 @@ import "slick-carousel/slick/slick-theme.css";
 import {Link} from "react-router-dom";
 import "../Style.css";
 
+import img1 from '../images/img1.jpg';
+import img2 from '../images/img2.jpg';
+import img3 from '../images/img3.jpg';
+import img4 from '../images/img4.jpg';
+import img5 from '../images/img5.jpg';
+import img6 from '../images/img6.jpg';
+
+
+
 export default class Responsive extends Component {
   render() {
     var settings = {
@@ -42,7 +51,7 @@ export default class Responsive extends Component {
         ]
       };
     return (
-      <div>
+      <div className="ui container">
 
         <br/><br/>
         <div className="ui container center aligned">
@@ -50,43 +59,43 @@ export default class Responsive extends Component {
         <Slider {...settings}>
             <div>
                 <Link to="#">
-                    <img src="img1.jpg" className="cardsliderimg1" />
+                    <img src={img1} className="cardsliderimg1" />
                     <h4>NoteBooks</h4>
                 </Link>
             </div>
             <div>
                 <Link to="#">
-                    <img src="img2.jpg" className="cardsliderimg1" />
+                    <img src={img2} className="cardsliderimg1" />
                     <h4>Mens Jeans</h4>
                 </Link>
             </div>
             <div>
                 <Link to="#">
-                    <img src="img3.jpg" className="cardsliderimg1" />
+                    <img src={img3} className="cardsliderimg1" />
                     <h4>Shoes</h4>
                 </Link>
             </div>
             <div>
                 <Link to="#">
-                    <img src="img4.jpg" className="cardsliderimg1" />
+                    <img src={img4} className="cardsliderimg1" />
                     <h4>Shirts</h4>
                 </Link>
             </div>
             <div>
                 <Link to="#">
-                    <img src="img5.jpg" className="cardsliderimg1" />
+                    <img src={img5} className="cardsliderimg1" />
                     <h4>T-Shirts</h4>
                 </Link>
             </div>
             <div>
                 <Link to="#">
-                    <img src="img6.jpg" className="cardsliderimg1" />
+                    <img src={img6} className="cardsliderimg1" />
                     <h4>Sendals</h4>
                 </Link>
             </div>
             <div>
                 <Link to="#">
-                    <img src="img1.jpg" className="cardsliderimg1" />
+                    <img src={img1} className="cardsliderimg1" />
                     <h4>Covers</h4>
                 </Link>
             </div>

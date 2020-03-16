@@ -1,5 +1,16 @@
 import React from "react";
 
+import t1 from '../images/t1.jpg';
+import t2 from '../images/t2.jpg';
+import t3 from '../images/t3.jpg';
+import t4 from '../images/t4.jpg';
+import t5 from '../images/t5.jpg';
+import t6 from '../images/t6.jpg';
+import t7 from '../images/t7.jpg';
+import t8 from '../images/t8.jpg';
+import t9 from '../images/t9.jpg';
+import t10 from '../images/t10.jpg';
+
 const Content3 = () => {
     return(
         <div>
@@ -18,13 +29,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t1.jpg" class="ui big image" />
+                                    <img src={t1} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t2.jpg" class="ui big image" />
+                                    <img src={t2} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -40,13 +51,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t1.jpg" class="ui big image" />
+                                    <img src={t1} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t2.jpg" class="ui big image" />
+                                    <img src={t2} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -61,13 +72,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t1.jpg" class="ui big image" />
+                                    <img src={t1} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t2.jpg" class="ui big image" />
+                                    <img src={t2} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -82,13 +93,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t1.jpg" class="ui big image" />
+                                    <img src={t1} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t2.jpg" class="ui big image" />
+                                    <img src={t2} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -105,13 +116,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t3.jpg" class="ui big image" />
+                                    <img src={t3} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t4.jpg" class="ui big image" />
+                                    <img src={t4} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -126,13 +137,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t3.jpg" class="ui big image" />
+                                    <img src={t3} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t4.jpg" class="ui big image" />
+                                    <img src={t4} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -147,13 +158,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t3.jpg" class="ui big image" />
+                                    <img src={t3} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t4.jpg" class="ui big image" />
+                                    <img src={t4} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -168,13 +179,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t3.jpg" class="ui big image" />
+                                    <img src={t3} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t4.jpg" class="ui big image" />
+                                    <img src={t4} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -191,13 +202,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t5.jpg" class="ui big image" />
+                                    <img src={t5} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t6.jpg" class="ui big image" />
+                                    <img src={t6} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -212,13 +223,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t5.jpg" class="ui big image" />
+                                    <img src={t5} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t6.jpg" class="ui big image" />
+                                    <img src={t6} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -233,13 +244,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t5.jpg" class="ui big image" />
+                                    <img src={t5} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t6.jpg" class="ui big image" />
+                                    <img src={t6} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -254,26 +265,19 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t5.jpg" class="ui big image" />
+                                    <img src={t5} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t6.jpg" class="ui big image" />
+                                    <img src={t6} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
                             <b>&#8377; 250</b>
                         </div>
                     </div>
-
-
-
-                    
-
-
-
 
                     {/* Fourth Column */}
                     <div className="column">
@@ -283,13 +287,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t7.jpg" class="ui big image" />
+                                    <img src={t7} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t8.jpg" class="ui big image" />
+                                    <img src={t8} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -304,13 +308,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t7.jpg" class="ui big image" />
+                                    <img src={t7} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t8.jpg" class="ui big image" />
+                                    <img src={t8} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -325,13 +329,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t7.jpg" class="ui big image" />
+                                    <img src={t7} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t8.jpg" class="ui big image" />
+                                    <img src={t8} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -346,13 +350,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t7.jpg" class="ui big image" />
+                                    <img src={t7} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t8.jpg" class="ui big image" />
+                                    <img src={t8} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -368,13 +372,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t9.jpg" class="ui big image" />
+                                    <img src={t9} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t10.jpg" class="ui big image" />
+                                    <img src={t10} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -389,13 +393,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t9.jpg" class="ui big image" />
+                                    <img src={t9} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t10.jpg" class="ui big image" />
+                                    <img src={t10}  class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>
@@ -410,13 +414,13 @@ const Content3 = () => {
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t9.jpg" class="ui big image" />
+                                    <img src={t9} class="ui big image" />
                                 </div>
                                 <div class="hidden content">
                                     <a className="ui right corner label large">
                                         <i className="heart icon"></i>
                                     </a>
-                                    <img src="t10.jpg" class="ui big image" />
+                                    <img src={t10} class="ui big image" />
                                 </div>
                             </div>
                             Half Mangos T-shirt <br/>

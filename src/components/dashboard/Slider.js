@@ -38,7 +38,7 @@ export default class Responsive extends Component {
       ]
     };
     return (
-        <div>
+        <div className="ui container">
 
             <div className="ui container center aligned">
                 <h2 className="underline1">Mobile Covers</h2>
