@@ -20,7 +20,7 @@ export default class Responsive extends Component {
       <div>
 
         <br/><br/>
-        <div className="ui container">
+        <div>
         <Slider {...settings}>
             <div>
                 <img src="banner1.jpg" className="cardsliderimg2" />
