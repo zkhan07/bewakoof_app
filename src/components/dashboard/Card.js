@@ -5,7 +5,7 @@ const Card = () => {
     return(
         <div>
 
-            <div>
+            <div className="ui fluid container">
                 <img src="card1.jpg" className="cardimg" />
             </div>
 
