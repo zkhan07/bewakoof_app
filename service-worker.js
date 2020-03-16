@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bewakoof_app/precache-manifest.4b3d6d0bdd4b224e3d6e881f520b3af3.js"
+  "/bewakoof_app/precache-manifest.245e16394d68973af17d9181ab19d480.js"
 );
 
 self.addEventListener('message', (event) => {
