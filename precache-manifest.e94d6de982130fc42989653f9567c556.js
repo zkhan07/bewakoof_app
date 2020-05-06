@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b80fda29a3ab11d42f03fa40b4416b4d",
+    "revision": "1364ac987210f1ccab738651e1a31a7e",
     "url": "/bewakoof_app/index.html"
   },
   {
-    "revision": "d05e0bcead0a01083cf7",
+    "revision": "882bbe156525a02e01ca",
     "url": "/bewakoof_app/static/css/2.1a445269.chunk.css"
   },
   {
-    "revision": "211202f324c857f4b61a",
-    "url": "/bewakoof_app/static/css/main.4f602e34.chunk.css"
+    "revision": "7135ec15a1fee7a07cc6",
+    "url": "/bewakoof_app/static/css/main.87337176.chunk.css"
   },
   {
-    "revision": "d05e0bcead0a01083cf7",
-    "url": "/bewakoof_app/static/js/2.9928e627.chunk.js"
+    "revision": "882bbe156525a02e01ca",
+    "url": "/bewakoof_app/static/js/2.1c1136de.chunk.js"
   },
   {
-    "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/bewakoof_app/static/js/2.9928e627.chunk.js.LICENSE.txt"
+    "revision": "76a55b301db41b8b467250603e7d866f",
+    "url": "/bewakoof_app/static/js/2.1c1136de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "211202f324c857f4b61a",
-    "url": "/bewakoof_app/static/js/main.21f9cb67.chunk.js"
+    "revision": "7135ec15a1fee7a07cc6",
+    "url": "/bewakoof_app/static/js/main.5ea90385.chunk.js"
   },
   {
     "revision": "eb97e7ec7818df87159a",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f4c348fc9e071a61aeaeec52c4d523a5",
     "url": "/bewakoof_app/static/media/card1.f4c348fc.jpg"
+  },
+  {
+    "revision": "bd8ca17c7ecdc49617214105f3aa0382",
+    "url": "/bewakoof_app/static/media/f1.bd8ca17c.jpg"
   },
   {
     "revision": "7eb896728fe514acf6f7a389d5e5a99b",

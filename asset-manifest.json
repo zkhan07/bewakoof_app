@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/bewakoof_app/static/css/main.4f602e34.chunk.css",
-    "main.js": "/bewakoof_app/static/js/main.21f9cb67.chunk.js",
-    "main.js.map": "/bewakoof_app/static/js/main.21f9cb67.chunk.js.map",
+    "main.css": "/bewakoof_app/static/css/main.87337176.chunk.css",
+    "main.js": "/bewakoof_app/static/js/main.5ea90385.chunk.js",
+    "main.js.map": "/bewakoof_app/static/js/main.5ea90385.chunk.js.map",
     "runtime-main.js": "/bewakoof_app/static/js/runtime-main.5824d917.js",
     "runtime-main.js.map": "/bewakoof_app/static/js/runtime-main.5824d917.js.map",
     "static/css/2.1a445269.chunk.css": "/bewakoof_app/static/css/2.1a445269.chunk.css",
-    "static/js/2.9928e627.chunk.js": "/bewakoof_app/static/js/2.9928e627.chunk.js",
-    "static/js/2.9928e627.chunk.js.map": "/bewakoof_app/static/js/2.9928e627.chunk.js.map",
+    "static/js/2.1c1136de.chunk.js": "/bewakoof_app/static/js/2.1c1136de.chunk.js",
+    "static/js/2.1c1136de.chunk.js.map": "/bewakoof_app/static/js/2.1c1136de.chunk.js.map",
     "index.html": "/bewakoof_app/index.html",
-    "precache-manifest.62e227eb938d40b2e5520443f0c79280.js": "/bewakoof_app/precache-manifest.62e227eb938d40b2e5520443f0c79280.js",
+    "precache-manifest.e94d6de982130fc42989653f9567c556.js": "/bewakoof_app/precache-manifest.e94d6de982130fc42989653f9567c556.js",
     "service-worker.js": "/bewakoof_app/service-worker.js",
     "static/css/2.1a445269.chunk.css.map": "/bewakoof_app/static/css/2.1a445269.chunk.css.map",
-    "static/css/main.4f602e34.chunk.css.map": "/bewakoof_app/static/css/main.4f602e34.chunk.css.map",
-    "static/js/2.9928e627.chunk.js.LICENSE.txt": "/bewakoof_app/static/js/2.9928e627.chunk.js.LICENSE.txt",
+    "static/css/main.87337176.chunk.css.map": "/bewakoof_app/static/css/main.87337176.chunk.css.map",
+    "static/js/2.1c1136de.chunk.js.LICENSE.txt": "/bewakoof_app/static/js/2.1c1136de.chunk.js.LICENSE.txt",
     "static/media/b1.jpg": "/bewakoof_app/static/media/b1.7bafd582.jpg",
     "static/media/b7.jpg": "/bewakoof_app/static/media/b7.f8850dd9.jpg",
     "static/media/b8.jpg": "/bewakoof_app/static/media/b8.37373645.jpg",
@@ -21,6 +21,7 @@
     "static/media/banner1.jpg": "/bewakoof_app/static/media/banner1.c21952f2.jpg",
     "static/media/banner2.jpg": "/bewakoof_app/static/media/banner2.22054fed.jpg",
     "static/media/card1.jpg": "/bewakoof_app/static/media/card1.f4c348fc.jpg",
+    "static/media/f1.jpg": "/bewakoof_app/static/media/f1.bd8ca17c.jpg",
     "static/media/img1.jpg": "/bewakoof_app/static/media/img1.7eb89672.jpg",
     "static/media/img2.jpg": "/bewakoof_app/static/media/img2.ea8a438f.jpg",
     "static/media/img3.jpg": "/bewakoof_app/static/media/img3.f7ea1d8d.jpg",
@@ -39,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.5824d917.js",
     "static/css/2.1a445269.chunk.css",
-    "static/js/2.9928e627.chunk.js",
-    "static/css/main.4f602e34.chunk.css",
-    "static/js/main.21f9cb67.chunk.js"
+    "static/js/2.1c1136de.chunk.js",
+    "static/css/main.87337176.chunk.css",
+    "static/js/main.5ea90385.chunk.js"
   ]
 }
