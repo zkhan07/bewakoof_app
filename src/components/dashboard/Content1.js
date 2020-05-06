@@ -14,38 +14,40 @@ const Content1 = () => {
 
             <br/><br/>
             <div className="ui container center aligned">
-                <h2 className="underline1">Design of the Day - Men</h2>
-                <div className="ui two column grid">
-                    <div className="column">
-                        <Link to="/contactus">
-                            <div className="ui image">
-                               <img src={img3} />
-                            </div>
-                        </Link>
-                    </div>
-                    <div className="column">
-                        <Link to="/aboutus">
-                            <div className="ui image">
-                               <img src={img4}  />
-                            </div>
-                        </Link>
+                <h1 className="underline1">Design of the Day - Men</h1>
+                <div className="ui equal width center aligned  grid">
+                    <div className="row">
+                        <div className="column divimg">
+                            <Link to="/contactus">
+                                <div className="ui image">
+                                <img src={img3} />
+                                </div>
+                            </Link>
+                        </div>
+                        <div className="column divimg">
+                            <Link to="/aboutus">
+                                <div className="ui image">
+                                <img src={img4}  />
+                                </div>
+                            </Link>
+                        </div>
                     </div>
                 </div>
             </div>
 
 
-            <br/><br/><br/><br/>
+            <br/><br/>
             <div className="ui container center aligned">
-                <h2 className="underline1">Design of the Day - Women</h2>
+                <h1 className="underline1">Design of the Day - Women</h1> <br/>
                 <div className="ui two column grid">
-                    <div className="column">
+                    <div className="column divimg">
                         <Link to="/contactus">
                             <div className="ui image">
                                 <img src={img1}  />
                             </div>
                         </Link>
                     </div>
-                    <div className="column">
+                    <div className="column divimg">
                         <Link to="/aboutus">
                             <div className="ui image">
                                 <img src={img5}  />

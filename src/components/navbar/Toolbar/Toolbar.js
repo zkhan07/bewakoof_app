@@ -38,8 +38,8 @@ const toolbar = props => (
 
 						<div className="three wide column">
 						<h3>Top Wear</h3>
-						<div class="item"> <a href="womenshoes">T-Shirts </a></div> 
-						<div class="item"> <a href="commodity">Vest </a></div> 
+						<div class="item"> <Link to="/tshirt">T-Shirts </Link></div> 
+						<div class="item"> <Link to="/shirt">Shirt </Link></div> 
 						<div class="item"> <a href="indices">Hoodoes </a></div> 
 						<div class="item"> <a href="stocks">   Football </a></div> 
 						<div class="item"> <a href="conditions"> Original </a></div> 

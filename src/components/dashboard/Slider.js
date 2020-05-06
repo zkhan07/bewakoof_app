@@ -41,7 +41,7 @@ export default class Responsive extends Component {
         <div className="ui container">
 
             <div className="ui container center aligned">
-                <h2 className="underline1">Mobile Covers</h2>
+                <h1 className="underline1">Mobile Covers</h1>
                 <Slider {...settings}>
                     <div className="ui segment">
                         <h2>Redmi</h2>

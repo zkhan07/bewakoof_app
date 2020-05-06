@@ -17,31 +17,31 @@ const Content2 = () => {
 
             <br/><br/><br/><br/>
             <div className="ui container center aligned">
-                <h2 className="underline1">Recommended Collections</h2> <br/>
+                <h1 className="underline1">Recommended Collections</h1> <br/>
                 <div className="ui two column grid">
 
-                    <div className="column">
+                    <div className="column divimg">
                         <Link to="/contactus">
                             <div className="ui image">
                                <img src={img7} />
                             </div>
                         </Link>
                     </div>
-                    <div className="column">
+                    <div className="column divimg">
                         <Link to="/aboutus">
                             <div className="ui image">
                                <img src={img8}  />
                             </div>
                         </Link>
                     </div>
-                    <div className="column">
+                    <div className="column divimg">
                         <Link to="/contactus">
                             <div className="ui image">
                                <img src={img4} />
                             </div>
                         </Link>
                     </div>
-                    <div className="column">
+                    <div className="column divimg">
                         <Link to="/aboutus">
                             <div className="ui image">
                                <img src={img3}  />
@@ -49,30 +49,32 @@ const Content2 = () => {
                         </Link>
                     </div>
 
-                    <img src={b8} className="cardsliderimg2" />
+                    <div className="sixteen wide column divimg">
+                        <img src={b8} className="cardsliderimg2" />
+                    </div>
 
-                    <div className="column">
+                    <div className="column divimg">
                         <Link to="/contactus">
                             <div className="ui image">
                                <img src={img3} />
                             </div>
                         </Link>
                     </div>
-                    <div className="column">
+                    <div className="column divimg">
                         <Link to="/aboutus">
                             <div className="ui image">
                                <img src={img7}  />
                             </div>
                         </Link>
                     </div>
-                    <div className="column">
+                    <div className="column divimg">
                         <Link to="/contactus">
                             <div className="ui image">
                                <img src={img4} />
                             </div>
                         </Link>
                     </div>
-                    <div className="column">
+                    <div className="column divimg">
                         <Link to="/aboutus">
                             <div className="ui image">
                                <img src={img8}  />
@@ -83,7 +85,7 @@ const Content2 = () => {
                 </div>
             </div>
 
-            <br/><br/><br/><br/>
+            <br/><br/><br/>
 
         </div>
     );

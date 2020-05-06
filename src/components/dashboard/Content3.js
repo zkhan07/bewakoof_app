@@ -17,7 +17,7 @@ const Content3 = () => {
 
             <div className="ui container">
                 <div className="ui container center aligned">
-                    <h2 className="underline1">Best Sellers</h2> <br/>
+                    <h1 className="underline1">Best Sellers</h1> <br/>
                 </div>
                 <div className="doubling ui four column grid">
 

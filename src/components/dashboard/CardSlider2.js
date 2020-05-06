@@ -24,7 +24,7 @@ export default class Responsive extends Component {
 
         <br/><br/>
         <div className="ui container center aligned">
-        <h2 className="underline1">Bewakoofs Sales</h2>
+        <h1 className="underline1">Bewakoofs Sales</h1>
         <Slider {...settings}>
             <div>
                 <img src={banner1} className="cardsliderimg2" />

@@ -24,13 +24,13 @@ const sideDrawer = props => {
                 <div className="ui fluid buttons">
                     <button className="ui yellow button">Sign In</button>
                     <div className="or"></div>
-                    <button className="ui blue button">Scign Up</button>
+                    <button className="ui blue button">Sign Up</button>
                 </div>
               </div>
             
             
               <div class="item">
-                <Link to="/products"><b>Men</b></Link>
+                <Link to="/tshirt"><b>Men</b></Link>
               </div>
 
               <div class="item">

@@ -7,7 +7,7 @@ const Card2 = () => {
         <div>
 
             <div className="ui container center aligned">
-                <h2 className="underline1">Bewakoof Delights</h2> <br/>
+                <h1 className="underline1">Bewakoof Delights</h1> <br/>
                 <img src={b7} className="cardsliderimg2" />
             </div>
 

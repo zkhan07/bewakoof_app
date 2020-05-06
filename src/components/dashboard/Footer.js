@@ -197,9 +197,9 @@ const Footer = () => {
         </div>
        
     
-        <div className="doubling stackable ui fluid container footer1"> <br/>
+        <div className="doubling stackable ui fluid container footer1" style={{backgroundColor: "#262626", color: "yellow"}}> <br/>
            <div className="ui grid center aligned">
-                <h5> @2020ParkingApp.CopyrightbyZaidKhan </h5>
+                <h5> @2020Bewakoof.in.CopyrightbyZaidKhan </h5>
            </div><br/>
         </div>
 

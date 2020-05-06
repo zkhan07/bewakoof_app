@@ -12,7 +12,7 @@ const Content2 = () => {
 
             <br/><br/>
             <div className="ui container center aligned">
-                <h2 className="underline1">About us</h2> <br/>
+                <h1 className="underline1">About us</h1> <br/>
                 <div className="ui four column grid">
                     <div className="column">
                         <div className="ui small image">
